@@ -4,9 +4,9 @@ import pymysql
 
 # Connect to the database
 db = pymysql.connect(host='localhost',
-                             user='root',
-                             password='zimbra',
-                             db='zippy',
+                             user=<your-username>,
+                             password=<your-password>,
+                             db=<your-db>,
                              charset='utf8mb4')
 
 
