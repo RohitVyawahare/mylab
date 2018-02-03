@@ -19,7 +19,7 @@ print_pattern1()
 
 
 '''
-OUTPUT:
+OUTPUT
 
 $ python 3dot5.py 
 + ---- + ---- +
