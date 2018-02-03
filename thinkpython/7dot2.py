@@ -12,9 +12,9 @@ def square_root(a):
   
   return y
 
-
-print square_root(64)
-print square_root(62)
+if __name__ == '__main__':
+  print square_root(64)
+  print square_root(62)
 
 '''
 OUPUT:
