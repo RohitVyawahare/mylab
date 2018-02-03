@@ -8,7 +8,7 @@ def square_root(a):
   while abs(y - x) > sys.float_info.epsilon:
     x = y
     y = (x + (a / x)) / 2.0
-    print "x: %f, y: %f"%(x, y)
+    #print "x: %f, y: %f"%(x, y)
   
   return y
 
