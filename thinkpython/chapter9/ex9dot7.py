@@ -17,3 +17,14 @@ def three_consecutive():
 
 if __name__ == '__main__':
   three_consecutive()  
+
+'''
+OUTPUT:
+
+pnq-rvyawahare:chapter9 rohit.vyawahare$ python ex9dot7.py 
+bookkeeper
+bookkeepers
+bookkeeping
+bookkeepings
+
+'''
